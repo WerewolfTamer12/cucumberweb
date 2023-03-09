@@ -1,1 +1,1 @@
-The owner is very goofy 
+This goofy website is blocked LLLLL
