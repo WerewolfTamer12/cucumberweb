@@ -1,0 +1,14 @@
+[core]
+	repositoryformatversion = 0
+	filemode = true
+	bare = false
+	logallrefupdates = true
+[user]
+	name = Replit user
+	email = <>
+[remote "origin"]
+	url = https://github.com/ozh/cookieclicker
+	fetch = +refs/heads/*:refs/remotes/origin/*
+[branch "gh-pages"]
+	remote = origin
+	merge = refs/heads/gh-pages
